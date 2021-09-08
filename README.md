@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Luma Marigo
+- 🌱 I’m currently learning NodeJS and ReactJS
